@@ -34208,7 +34208,7 @@ if(m!=null){n.a=null
 s=a.O(t.w).f.a.a>600?n.a=!0:n.a=!1
 r=s?A.ai(255,207,229,250):A.ai(255,255,233,233)
 s=s?new A.N(4279773131):A.ai(255,180,2,199)
-s=A.afP(s,2,new A.u5(A.cM("Quiz Time",p,p,A.dp(p,p,B.j,p,p,p,p,p,o,p,p,22,p,p,B.ab,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),!0,1,p),p)
+s=A.afP(s,2,new A.u5(A.cM("Quiz time",p,p,A.dp(p,p,B.j,p,p,p,p,p,o,p,p,22,p,p,B.ab,p,p,!0,p,p,p,p,p,p,p,p),B.aY,p),!0,1,p),p)
 m=A.a([A.agy(A.ah1(new A.VG(n,b),J.b3(m)))],t.p)
 n=this.a
 q=n!==0
